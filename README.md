@@ -35,6 +35,15 @@ Players take turns rolling a dice, accumulating points, and trying to be the fir
 
 ---
 
+## 🎯 Project Purpose
+
+This project was built to:
+
+- Strengthen core **JavaScript fundamentals**
+- Improve performance-focused front-end development skills
+
+---
+
 ## 🧠 JavaScript Concepts Used
 
 - DOM selection and manipulation
