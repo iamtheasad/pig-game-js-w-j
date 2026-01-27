@@ -10,27 +10,22 @@ Players take turns rolling a dice, accumulating points, and trying to be the fir
 ## 🚀 Features
 
 - **Two Player Gameplay**
-
   - Two players can play simultaneously
   - Players take turns rolling the dice
 
 - **Dice Roll Mechanics**
-
   - Roll a dice to accumulate points
   - Rolling a 1 switches the turn to the next player
 
 - **Hold Feature**
-
   - Players can hold their current score to add it to their total score
   - Strategic choice: risk rolling again or secure points
 
 - **Win Condition**
-
   - First player to reach **100 points** wins the game
   - Winner is visually highlighted
 
 - **Game Reset**
-
   - Start a new game at any time using the **New Game** button
 
 ---
@@ -85,4 +80,4 @@ This project was built to:
 
 **Md. Asaduzzaman Rana**  
 Front-End Developer  
-Focused on JavaScript fundamentals and interactive UI behavior
+Front-End Developer (React • Next.js • JavaScript)
